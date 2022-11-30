@@ -1,0 +1,10 @@
+.navIcons{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: space-between;
+    float: right;
+    padding: 129px;
+    color: white;
+    text-decoration: none;
+    
+}
